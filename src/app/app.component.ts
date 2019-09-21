@@ -8,4 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Nueva APP';
   title2 = "nuevo";
+  title3 = true -
+  title 4: con error
 }
