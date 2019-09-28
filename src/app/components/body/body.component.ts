@@ -13,6 +13,8 @@ export class BodyComponent {
         autor: 'Ben Parker'
     };
 
-    personales: string[] = ['Spiderman', 'Venon', 'Dr. Octopus'];
+    personales: string[] = ['Spiderman', 'Venon', 'Dr. Octopus', 'Duende verde', 'Mary Jane', 'Gwen Stacy'];
+
+    personajes2: string[] = ['Capitan America', 'Iron man', 'Thro', 'Loki', 'Doctor Strange'];
 
 }
